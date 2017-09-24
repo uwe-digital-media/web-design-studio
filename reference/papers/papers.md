@@ -1,8 +1,8 @@
 Web design studio
 
-Papers 17- 19
+Papers 17- 18
 
-and using the github intro to UX list 
+and using the github intro to UX list
 
 Gaver, B., & Bowers, J. (2012). Annotated portfolios. Interactions, 19(4), 40. doi:10.1145/2212877.2212889
 @article{Gaver2012, author = {Gaver, Bill and Bowers, John}, doi = {10.1145/2212877.2212889}, file = {:Users/danbuzzo/Documents/Mendeley Desktop/Gaver, Bowers - 2012 - Annotated portfolios.pdf:pdf}, issn = {10725520}, journal = {Interactions}, mendeley-groups = {Critical Design}, month = jul, number = {4}, pages = {40}, title = {{Annotated portfolios}}, url = {http://dl.acm.org/citation.cfm?doid=2212877.2212889}, volume = {19}, year = {2012} }
